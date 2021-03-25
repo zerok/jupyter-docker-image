@@ -5,6 +5,6 @@ matplotlib==3.1.1
 graphviz==0.12
 folium==0.10.0
 pendulum==2.0.4
-pyyaml==5.1.2
+pyyaml==5.4
 Shapely==1.6.4.post2
 httpx==0.11.1
